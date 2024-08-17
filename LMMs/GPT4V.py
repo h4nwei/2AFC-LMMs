@@ -25,8 +25,8 @@ def encode_image(image_path):
     #       return base64.b64encode(image_file.read()).decode('utf-8')
 
 
-class ChatGPT():
-    def __init__(self, model:str="gpt-4-vision-preview", api_key:str='sk-rwixHZImi3GQHJRJbrigT3BlbkFJ5K6'):
+class GPT4V():
+    def __init__(self, model:str="gpt-4-vision-preview", api_key:str='api_key'):
         self.model = model
         self.headers = {
             "Content-Type": "application/json",
@@ -141,7 +141,7 @@ class ChatGPT():
       return summary
 
 def make_model():
-    return ChatGPT()  
+    return GPT4V()  
 
 if __name__ == '__main__':
   dataset = 'MM21'

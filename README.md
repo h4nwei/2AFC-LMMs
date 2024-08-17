@@ -35,7 +35,7 @@
 
 
 ## 💫 Sample Images
-We assess three open-source and one close-source LMMs on both coarse-grained and fine-grained scenarios. The selected images contain in the corresponding `JSON` files.
+We assess four open-source and one close-source LMMs on both coarse-grained and fine-grained scenarios. The selected images contained in the corresponding `JSON` files.
 
 **Coarse-grained scenario** (`data/Coarse_grained_mixed.json`): 
 - Synthtic distortion: [CSIQ](http://vision.eng.shizuoka.ac.jp/mod/page/view.php?id=23), [KADID-10k](https://database.mmsp-kn.de/kadid-10k-database.html)
@@ -51,9 +51,9 @@ We assess three open-source and one close-source LMMs on both coarse-grained and
 
 
 ## :hammer_and_wrench: Quick Inference
-Here is an example.
+Here is an example for GPT-4V.
 ```
-python main.py --data_dir path/IQA_datasets --stage_name Fine_grain_SPAQ.json --model_name ChatGPT
+python main.py --data_dir path/IQA_datasets --stage_name Fine_grain_SPAQ.json --model_name GPT4V
 ```
 
 ## BibTeX
