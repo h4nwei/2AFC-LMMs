@@ -1,0 +1,442 @@
+{
+    "butter_flower.AWGN": [
+        {
+            "img_path": "CSIQ/dst_imgs/butter_flower.AWGN.1.png",
+            "gt_score": "0.027"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/butter_flower.AWGN.2.png",
+            "gt_score": "0.089"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/butter_flower.AWGN.3.png",
+            "gt_score": "0.252"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/butter_flower.AWGN.4.png",
+            "gt_score": "0.435"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/butter_flower.AWGN.5.png",
+            "gt_score": "0.545"
+        }
+    ],
+    "butter_flower.JPEG": [
+        {
+            "img_path": "CSIQ/dst_imgs/butter_flower.JPEG.1.png",
+            "gt_score": "0.023"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/butter_flower.JPEG.2.png",
+            "gt_score": "0.031"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/butter_flower.JPEG.3.png",
+            "gt_score": "0.410"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/butter_flower.JPEG.4.png",
+            "gt_score": "0.699"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/butter_flower.JPEG.5.png",
+            "gt_score": "0.808"
+        }
+    ],
+    "butter_flower.jpeg2000": [
+        {
+            "img_path": "CSIQ/dst_imgs/butter_flower.jpeg2000.1.png",
+            "gt_score": "0.028"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/butter_flower.jpeg2000.2.png",
+            "gt_score": "0.143"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/butter_flower.jpeg2000.3.png",
+            "gt_score": "0.460"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/butter_flower.jpeg2000.4.png",
+            "gt_score": "0.779"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/butter_flower.jpeg2000.5.png",
+            "gt_score": "0.926"
+        }
+    ],
+    "butter_flower.fnoise": [
+        {
+            "img_path": "CSIQ/dst_imgs/butter_flower.fnoise.1.png",
+            "gt_score": "0.028"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/butter_flower.fnoise.2.png",
+            "gt_score": "0.195"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/butter_flower.fnoise.3.png",
+            "gt_score": "0.382"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/butter_flower.fnoise.4.png",
+            "gt_score": "0.549"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/butter_flower.fnoise.5.png",
+            "gt_score": "0.727"
+        }
+    ],
+    "butter_flower.BLUR": [
+        {
+            "img_path": "CSIQ/dst_imgs/butter_flower.BLUR.1.png",
+            "gt_score": "0.078"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/butter_flower.BLUR.2.png",
+            "gt_score": "0.202"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/butter_flower.BLUR.3.png",
+            "gt_score": "0.482"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/butter_flower.BLUR.4.png",
+            "gt_score": "0.779"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/butter_flower.BLUR.5.png",
+            "gt_score": "0.953"
+        }
+    ],
+    "native_american.AWGN": [
+        {
+            "img_path": "CSIQ/dst_imgs/native_american.AWGN.1.png",
+            "gt_score": "0.040"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/native_american.AWGN.2.png",
+            "gt_score": "0.069"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/native_american.AWGN.3.png",
+            "gt_score": "0.224"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/native_american.AWGN.4.png",
+            "gt_score": "0.401"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/native_american.AWGN.5.png",
+            "gt_score": "0.476"
+        }
+    ],
+    "native_american.JPEG": [
+        {
+            "img_path": "CSIQ/dst_imgs/native_american.JPEG.1.png",
+            "gt_score": "0.023"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/native_american.JPEG.2.png",
+            "gt_score": "0.092"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/native_american.JPEG.3.png",
+            "gt_score": "0.362"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/native_american.JPEG.4.png",
+            "gt_score": "0.699"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/native_american.JPEG.5.png",
+            "gt_score": "0.827"
+        }
+    ],
+    "native_american.jpeg2000": [
+        {
+            "img_path": "CSIQ/dst_imgs/native_american.jpeg2000.1.png",
+            "gt_score": "0.055"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/native_american.jpeg2000.2.png",
+            "gt_score": "0.150"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/native_american.jpeg2000.3.png",
+            "gt_score": "0.373"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/native_american.jpeg2000.4.png",
+            "gt_score": "0.723"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/native_american.jpeg2000.5.png",
+            "gt_score": "0.887"
+        }
+    ],
+    "native_american.fnoise": [
+        {
+            "img_path": "CSIQ/dst_imgs/native_american.fnoise.1.png",
+            "gt_score": "0.087"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/native_american.fnoise.2.png",
+            "gt_score": "0.254"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/native_american.fnoise.3.png",
+            "gt_score": "0.491"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/native_american.fnoise.4.png",
+            "gt_score": "0.618"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/native_american.fnoise.5.png",
+            "gt_score": "0.735"
+        }
+    ],
+    "native_american.BLUR": [
+        {
+            "img_path": "CSIQ/dst_imgs/native_american.BLUR.1.png",
+            "gt_score": "0.035"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/native_american.BLUR.2.png",
+            "gt_score": "0.172"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/native_american.BLUR.3.png",
+            "gt_score": "0.365"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/native_american.BLUR.4.png",
+            "gt_score": "0.607"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/native_american.BLUR.5.png",
+            "gt_score": "0.868"
+        }
+    ],
+    "redwood.AWGN": [
+        {
+            "img_path": "CSIQ/dst_imgs/redwood.AWGN.1.png",
+            "gt_score": "0.051"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/redwood.AWGN.2.png",
+            "gt_score": "0.188"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/redwood.AWGN.3.png",
+            "gt_score": "0.323"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/redwood.AWGN.4.png",
+            "gt_score": "0.432"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/redwood.AWGN.5.png",
+            "gt_score": "0.545"
+        }
+    ],
+    "redwood.JPEG": [
+        {
+            "img_path": "CSIQ/dst_imgs/redwood.JPEG.1.png",
+            "gt_score": "0.027"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/redwood.JPEG.2.png",
+            "gt_score": "0.099"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/redwood.JPEG.3.png",
+            "gt_score": "0.425"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/redwood.JPEG.4.png",
+            "gt_score": "0.745"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/redwood.JPEG.5.png",
+            "gt_score": "0.846"
+        }
+    ],
+    "redwood.jpeg2000": [
+        {
+            "img_path": "CSIQ/dst_imgs/redwood.jpeg2000.1.png",
+            "gt_score": "0.032"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/redwood.jpeg2000.2.png",
+            "gt_score": "0.182"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/redwood.jpeg2000.3.png",
+            "gt_score": "0.434"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/redwood.jpeg2000.4.png",
+            "gt_score": "0.681"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/redwood.jpeg2000.5.png",
+            "gt_score": "0.886"
+        }
+    ],
+    "redwood.fnoise": [
+        {
+            "img_path": "CSIQ/dst_imgs/redwood.fnoise.1.png",
+            "gt_score": "0.095"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/redwood.fnoise.2.png",
+            "gt_score": "0.310"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/redwood.fnoise.3.png",
+            "gt_score": "0.524"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/redwood.fnoise.4.png",
+            "gt_score": "0.653"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/redwood.fnoise.5.png",
+            "gt_score": "0.752"
+        }
+    ],
+    "redwood.BLUR": [
+        {
+            "img_path": "CSIQ/dst_imgs/redwood.BLUR.1.png",
+            "gt_score": "0.088"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/redwood.BLUR.2.png",
+            "gt_score": "0.230"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/redwood.BLUR.3.png",
+            "gt_score": "0.381"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/redwood.BLUR.4.png",
+            "gt_score": "0.569"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/redwood.BLUR.5.png",
+            "gt_score": "0.846"
+        }
+    ],
+    "woman.AWGN": [
+        {
+            "img_path": "CSIQ/dst_imgs/woman.AWGN.1.png",
+            "gt_score": "0.052"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/woman.AWGN.2.png",
+            "gt_score": "0.197"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/woman.AWGN.3.png",
+            "gt_score": "0.289"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/woman.AWGN.4.png",
+            "gt_score": "0.409"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/woman.AWGN.5.png",
+            "gt_score": "0.490"
+        }
+    ],
+    "woman.JPEG": [
+        {
+            "img_path": "CSIQ/dst_imgs/woman.JPEG.1.png",
+            "gt_score": "0.031"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/woman.JPEG.2.png",
+            "gt_score": "0.119"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/woman.JPEG.3.png",
+            "gt_score": "0.348"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/woman.JPEG.4.png",
+            "gt_score": "0.621"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/woman.JPEG.5.png",
+            "gt_score": "0.783"
+        }
+    ],
+    "woman.jpeg2000": [
+        {
+            "img_path": "CSIQ/dst_imgs/woman.jpeg2000.1.png",
+            "gt_score": "0.042"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/woman.jpeg2000.2.png",
+            "gt_score": "0.122"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/woman.jpeg2000.3.png",
+            "gt_score": "0.403"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/woman.jpeg2000.4.png",
+            "gt_score": "0.641"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/woman.jpeg2000.5.png",
+            "gt_score": "0.897"
+        }
+    ],
+    "woman.fnoise": [
+        {
+            "img_path": "CSIQ/dst_imgs/woman.fnoise.1.png",
+            "gt_score": "0.099"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/woman.fnoise.2.png",
+            "gt_score": "0.262"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/woman.fnoise.3.png",
+            "gt_score": "0.490"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/woman.fnoise.4.png",
+            "gt_score": "0.638"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/woman.fnoise.5.png",
+            "gt_score": "0.742"
+        }
+    ],
+    "woman.BLUR": [
+        {
+            "img_path": "CSIQ/dst_imgs/woman.BLUR.1.png",
+            "gt_score": "0.086"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/woman.BLUR.2.png",
+            "gt_score": "0.198"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/woman.BLUR.3.png",
+            "gt_score": "0.420"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/woman.BLUR.4.png",
+            "gt_score": "0.616"
+        },
+        {
+            "img_path": "CSIQ/dst_imgs/woman.BLUR.5.png",
+            "gt_score": "0.834"
+        }
+    ]
+}

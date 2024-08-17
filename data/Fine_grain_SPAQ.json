@@ -1,0 +1,410 @@
+{
+    "interval_1_25": [
+        {
+            "img_path": "spaq/TestImage_512/08358.png",
+            "gt_score": "12.6"
+        },
+        {
+            "img_path": "spaq/TestImage_512/10420.png",
+            "gt_score": "9"
+        },
+        {
+            "img_path": "spaq/TestImage_512/09415.png",
+            "gt_score": "20.33"
+        },
+        {
+            "img_path": "spaq/TestImage_512/06892.png",
+            "gt_score": "23.5"
+        },
+        {
+            "img_path": "spaq/TestImage_512/01034.png",
+            "gt_score": "21.13"
+        },
+        {
+            "img_path": "spaq/TestImage_512/10358.png",
+            "gt_score": "18.67"
+        },
+        {
+            "img_path": "spaq/TestImage_512/04760.png",
+            "gt_score": "16.2"
+        },
+        {
+            "img_path": "spaq/TestImage_512/02760.png",
+            "gt_score": "24.7"
+        },
+        {
+            "img_path": "spaq/TestImage_512/10433.png",
+            "gt_score": "17.33"
+        },
+        {
+            "img_path": "spaq/TestImage_512/06916.png",
+            "gt_score": "22.75"
+        },
+        {
+            "img_path": "spaq/TestImage_512/02543.png",
+            "gt_score": "14.89"
+        },
+        {
+            "img_path": "spaq/TestImage_512/09399.png",
+            "gt_score": "14.14"
+        },
+        {
+            "img_path": "spaq/TestImage_512/09923.png",
+            "gt_score": "12.4"
+        },
+        {
+            "img_path": "spaq/TestImage_512/09838.png",
+            "gt_score": "11"
+        },
+        {
+            "img_path": "spaq/TestImage_512/00633.png",
+            "gt_score": "24"
+        },
+        {
+            "img_path": "spaq/TestImage_512/05924.png",
+            "gt_score": "23.5"
+        },
+        {
+            "img_path": "spaq/TestImage_512/01039.png",
+            "gt_score": "21"
+        },
+        {
+            "img_path": "spaq/TestImage_512/05781.png",
+            "gt_score": "20.75"
+        },
+        {
+            "img_path": "spaq/TestImage_512/07403.png",
+            "gt_score": "19.2"
+        },
+        {
+            "img_path": "spaq/TestImage_512/04171.png",
+            "gt_score": "14"
+        },
+        {
+            "img_path": "spaq/TestImage_512/08916.png",
+            "gt_score": "20.13"
+        },
+        {
+            "img_path": "spaq/TestImage_512/07332.png",
+            "gt_score": "20.67"
+        },
+        {
+            "img_path": "spaq/TestImage_512/09302.png",
+            "gt_score": "22"
+        },
+        {
+            "img_path": "spaq/TestImage_512/09062.png",
+            "gt_score": "17.8"
+        },
+        {
+            "img_path": "spaq/TestImage_512/10475.png",
+            "gt_score": "23.33"
+        }
+    ],
+    "interval_25_50": [
+        {
+            "img_path": "spaq/TestImage_512/05111.png",
+            "gt_score": "41.2"
+        },
+        {
+            "img_path": "spaq/TestImage_512/04970.png",
+            "gt_score": "25.17"
+        },
+        {
+            "img_path": "spaq/TestImage_512/06888.png",
+            "gt_score": "30.75"
+        },
+        {
+            "img_path": "spaq/TestImage_512/07222.png",
+            "gt_score": "26"
+        },
+        {
+            "img_path": "spaq/TestImage_512/00211.png",
+            "gt_score": "46.92"
+        },
+        {
+            "img_path": "spaq/TestImage_512/05148.png",
+            "gt_score": "35.77"
+        },
+        {
+            "img_path": "spaq/TestImage_512/10230.png",
+            "gt_score": "48"
+        },
+        {
+            "img_path": "spaq/TestImage_512/01167.png",
+            "gt_score": "36.63"
+        },
+        {
+            "img_path": "spaq/TestImage_512/08051.png",
+            "gt_score": "33.78"
+        },
+        {
+            "img_path": "spaq/TestImage_512/01489.png",
+            "gt_score": "30.5"
+        },
+        {
+            "img_path": "spaq/TestImage_512/09973.png",
+            "gt_score": "36.5"
+        },
+        {
+            "img_path": "spaq/TestImage_512/02676.png",
+            "gt_score": "40.23"
+        },
+        {
+            "img_path": "spaq/TestImage_512/02894.png",
+            "gt_score": "32.14"
+        },
+        {
+            "img_path": "spaq/TestImage_512/06872.png",
+            "gt_score": "44.25"
+        },
+        {
+            "img_path": "spaq/TestImage_512/10607.png",
+            "gt_score": "49"
+        },
+        {
+            "img_path": "spaq/TestImage_512/07718.png",
+            "gt_score": "33.4"
+        },
+        {
+            "img_path": "spaq/TestImage_512/03037.png",
+            "gt_score": "30"
+        },
+        {
+            "img_path": "spaq/TestImage_512/10755.png",
+            "gt_score": "40.57"
+        },
+        {
+            "img_path": "spaq/TestImage_512/09293.png",
+            "gt_score": "34.86"
+        },
+        {
+            "img_path": "spaq/TestImage_512/02399.png",
+            "gt_score": "25.33"
+        },
+        {
+            "img_path": "spaq/TestImage_512/07749.png",
+            "gt_score": "47.8"
+        },
+        {
+            "img_path": "spaq/TestImage_512/06296.png",
+            "gt_score": "34"
+        },
+        {
+            "img_path": "spaq/TestImage_512/10734.png",
+            "gt_score": "32.71"
+        },
+        {
+            "img_path": "spaq/TestImage_512/05805.png",
+            "gt_score": "33.78"
+        },
+        {
+            "img_path": "spaq/TestImage_512/01438.png",
+            "gt_score": "39.92"
+        }
+    ],
+    "interval_50_75": [
+        {
+            "img_path": "spaq/TestImage_512/00874.png",
+            "gt_score": "67.83"
+        },
+        {
+            "img_path": "spaq/TestImage_512/09200.png",
+            "gt_score": "67.2"
+        },
+        {
+            "img_path": "spaq/TestImage_512/03638.png",
+            "gt_score": "59.18"
+        },
+        {
+            "img_path": "spaq/TestImage_512/00469.png",
+            "gt_score": "72.67"
+        },
+        {
+            "img_path": "spaq/TestImage_512/01933.png",
+            "gt_score": "73.9"
+        },
+        {
+            "img_path": "spaq/TestImage_512/01162.png",
+            "gt_score": "59"
+        },
+        {
+            "img_path": "spaq/TestImage_512/07084.png",
+            "gt_score": "54"
+        },
+        {
+            "img_path": "spaq/TestImage_512/09185.png",
+            "gt_score": "73.67"
+        },
+        {
+            "img_path": "spaq/TestImage_512/00255.png",
+            "gt_score": "57.92"
+        },
+        {
+            "img_path": "spaq/TestImage_512/02674.png",
+            "gt_score": "56.36"
+        },
+        {
+            "img_path": "spaq/TestImage_512/03067.png",
+            "gt_score": "73.6"
+        },
+        {
+            "img_path": "spaq/TestImage_512/03822.png",
+            "gt_score": "68.57"
+        },
+        {
+            "img_path": "spaq/TestImage_512/06210.png",
+            "gt_score": "69.33"
+        },
+        {
+            "img_path": "spaq/TestImage_512/07879.png",
+            "gt_score": "52.71"
+        },
+        {
+            "img_path": "spaq/TestImage_512/02467.png",
+            "gt_score": "63.1"
+        },
+        {
+            "img_path": "spaq/TestImage_512/04117.png",
+            "gt_score": "52.55"
+        },
+        {
+            "img_path": "spaq/TestImage_512/01979.png",
+            "gt_score": "52.45"
+        },
+        {
+            "img_path": "spaq/TestImage_512/06460.png",
+            "gt_score": "70.71"
+        },
+        {
+            "img_path": "spaq/TestImage_512/02177.png",
+            "gt_score": "54.57"
+        },
+        {
+            "img_path": "spaq/TestImage_512/08783.png",
+            "gt_score": "55"
+        },
+        {
+            "img_path": "spaq/TestImage_512/10574.png",
+            "gt_score": "72.43"
+        },
+        {
+            "img_path": "spaq/TestImage_512/05907.png",
+            "gt_score": "63"
+        },
+        {
+            "img_path": "spaq/TestImage_512/09835.png",
+            "gt_score": "55.33"
+        },
+        {
+            "img_path": "spaq/TestImage_512/04545.png",
+            "gt_score": "73.86"
+        },
+        {
+            "img_path": "spaq/TestImage_512/09029.png",
+            "gt_score": "72.75"
+        }
+    ],
+    "interval_75_100": [
+        {
+            "img_path": "spaq/TestImage_512/07506.png",
+            "gt_score": "77"
+        },
+        {
+            "img_path": "spaq/TestImage_512/04601.png",
+            "gt_score": "87.23"
+        },
+        {
+            "img_path": "spaq/TestImage_512/08971.png",
+            "gt_score": "81.75"
+        },
+        {
+            "img_path": "spaq/TestImage_512/01305.png",
+            "gt_score": "77.75"
+        },
+        {
+            "img_path": "spaq/TestImage_512/05181.png",
+            "gt_score": "85.17"
+        },
+        {
+            "img_path": "spaq/TestImage_512/03092.png",
+            "gt_score": "79.38"
+        },
+        {
+            "img_path": "spaq/TestImage_512/09110.png",
+            "gt_score": "80.2"
+        },
+        {
+            "img_path": "spaq/TestImage_512/01025.png",
+            "gt_score": "78.57"
+        },
+        {
+            "img_path": "spaq/TestImage_512/05446.png",
+            "gt_score": "79.33"
+        },
+        {
+            "img_path": "spaq/TestImage_512/04790.png",
+            "gt_score": "77.3"
+        },
+        {
+            "img_path": "spaq/TestImage_512/00789.png",
+            "gt_score": "75.5"
+        },
+        {
+            "img_path": "spaq/TestImage_512/10881.png",
+            "gt_score": "77.43"
+        },
+        {
+            "img_path": "spaq/TestImage_512/00091.png",
+            "gt_score": "78.86"
+        },
+        {
+            "img_path": "spaq/TestImage_512/10330.png",
+            "gt_score": "80.57"
+        },
+        {
+            "img_path": "spaq/TestImage_512/10175.png",
+            "gt_score": "79.14"
+        },
+        {
+            "img_path": "spaq/TestImage_512/09442.png",
+            "gt_score": "77"
+        },
+        {
+            "img_path": "spaq/TestImage_512/08001.png",
+            "gt_score": "83.5"
+        },
+        {
+            "img_path": "spaq/TestImage_512/10518.png",
+            "gt_score": "81"
+        },
+        {
+            "img_path": "spaq/TestImage_512/07560.png",
+            "gt_score": "77"
+        },
+        {
+            "img_path": "spaq/TestImage_512/09064.png",
+            "gt_score": "86.33"
+        },
+        {
+            "img_path": "spaq/TestImage_512/05498.png",
+            "gt_score": "83.88"
+        },
+        {
+            "img_path": "spaq/TestImage_512/06506.png",
+            "gt_score": "79.43"
+        },
+        {
+            "img_path": "spaq/TestImage_512/01530.png",
+            "gt_score": "81.57"
+        },
+        {
+            "img_path": "spaq/TestImage_512/08794.png",
+            "gt_score": "89.25"
+        },
+        {
+            "img_path": "spaq/TestImage_512/07239.png",
+            "gt_score": "76"
+        }
+    ]
+}
