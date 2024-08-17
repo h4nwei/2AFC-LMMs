@@ -58,7 +58,7 @@ python main.py --data_dir path/IQA_datasets --stage_name Fine_grain_SPAQ.json --
 
 ## BibTeX
 ```
-@article{wu2024comprehensive,
+@article{zhu20242afc,
   title={2AFC Prompting of Large Multimodal Models for Image Quality Assessment},
   author={Zhu, Hanwei and Sui, Xiangjie and Chen, Baoliang and Liu, Xuelin and Fang, Yuming and Wang, Shiqi},
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
